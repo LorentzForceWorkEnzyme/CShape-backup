@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="#" title="有才首页"  description="">
+    <siteMapNode url="#" title="网站建设"  description="" />
+    <siteMapNode url="#" title="静态网页"  description="" />
+    <siteMapNode url="#" title="Asp网站"  description="" />
+    <siteMapNode url="#" title="ASP.NET网站"  description="" />
+  </siteMapNode>
+  <siteMapNode url="#" title="网页推广"  description="">
+    <siteMapNode url="#" title="baidu推广"  description="" />
+    <siteMapNode url="#" title="google推广"  description="" />
+
+  </siteMapNode>
+  <siteMapNode url="#" title="域名注册"  description="">
+    <siteMapNode url="#" title="虚拟主机"  description="" />
+    <siteMapNode url="#" title="企业邮局"  description="" />
+    <siteMapNode url="#" title="客户服务"  description="" />
+    <siteMapNode url="#" title="代理合作"  description="" />
+    <siteMapNode url="#" title="论坛交流"  description="" />
+  </siteMapNode>
+</siteMap>

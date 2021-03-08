@@ -1,0 +1,6 @@
+K:\ASPNET\Sai\Sai\bin\Sai.dll.config
+K:\ASPNET\Sai\Sai\bin\Sai.dll
+K:\ASPNET\Sai\Sai\bin\Sai.pdb
+K:\ASPNET\Sai\Sai\obj\Debug\Sai.csproj.CoreCompileInputs.cache
+K:\ASPNET\Sai\Sai\obj\Debug\Sai.dll
+K:\ASPNET\Sai\Sai\obj\Debug\Sai.pdb

@@ -1,0 +1,12 @@
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\bin\Debug\实训ATM机.exe.config
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\bin\Debug\实训ATM机.exe
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\bin\Debug\实训ATM机.pdb
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.csprojResolveAssemblyReference.cache
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.Form1.resources
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.Properties.Resources.resources
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.csproj.GenerateResource.Cache
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.csproj.CoreCompileInputs.cache
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.exe
+c:\users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.pdb
+C:\Users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.UserForm.resources
+C:\Users\菜菜\source\repos\实训ATM机\实训ATM机\obj\Debug\实训ATM机.DeopAndWithdraw.resources
